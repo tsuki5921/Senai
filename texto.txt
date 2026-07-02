@@ -1,8 +1,8 @@
-Clone 
-Add
-Commit -m""
-Push
-Status
-Commit -m"Pão de sal
-Davi é beta
-Davi é beta
+67
+clone 
+add
+commit -m""
+push
+status
+commit -m"Pão de sal"
+67
